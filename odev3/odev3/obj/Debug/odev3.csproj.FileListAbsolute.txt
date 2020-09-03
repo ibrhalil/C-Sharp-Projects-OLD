@@ -1,0 +1,10 @@
+C:\Users\My-PC\source\repos\odev3\odev3\obj\Debug\odev3.csprojAssemblyReference.cache
+C:\Users\My-PC\source\repos\odev3\odev3\obj\Debug\odev3.Form1.resources
+C:\Users\My-PC\source\repos\odev3\odev3\obj\Debug\odev3.Properties.Resources.resources
+C:\Users\My-PC\source\repos\odev3\odev3\obj\Debug\odev3.csproj.GenerateResource.cache
+C:\Users\My-PC\source\repos\odev3\odev3\obj\Debug\odev3.csproj.CoreCompileInputs.cache
+C:\Users\My-PC\source\repos\odev3\odev3\bin\Debug\odev3.exe.config
+C:\Users\My-PC\source\repos\odev3\odev3\bin\Debug\odev3.exe
+C:\Users\My-PC\source\repos\odev3\odev3\bin\Debug\odev3.pdb
+C:\Users\My-PC\source\repos\odev3\odev3\obj\Debug\odev3.exe
+C:\Users\My-PC\source\repos\odev3\odev3\obj\Debug\odev3.pdb
